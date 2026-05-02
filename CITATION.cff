@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "NEET UG 2024 Score Distribution Analysis"
+message: "If you use this analysis, please cite this repository."
+type: software
+authors:
+  - family-names: "Bakshi"
+    given-names: "Sankha Subhra"
+repository-code: "https://github.com/Sankha-Subhra-Bakshi/Neet2024_Analysis"
+abstract: "An exploratory statistical analysis of the NEET UG 2024 score distribution using an attempt--correctness model for a negatively marked multiple-choice examination."
+keywords:
+  - NEET UG 2024
+  - score distribution
+  - competitive exams
+  - statistical model
+  - negative marking
+license: MIT
