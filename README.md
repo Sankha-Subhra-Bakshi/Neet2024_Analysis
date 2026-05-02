@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1227086146.svg)](https://doi.org/10.5281/zenodo.19972748)
+
+
 # NEET UG 2024 Score Distribution Analysis
 
 This repository contains data, scripts, and figures for an exploratory statistical analysis of the NEET UG 2024 score distribution.
@@ -33,7 +36,14 @@ To regenerate the figures:
 python3 code/fig1fig2.py
 python3 code/fig3.py
 
-Disclaimer
+##Disclaimer
 
 This is an exploratory statistical analysis of aggregate score-count data. It is not an official report and does not make claims 
 about malpractice, paper leakage, administrative irregularity, or individual candidate behavior.
+
+## Citation
+
+If you use this analysis, please cite the archived Zenodo release:
+
+Sankha Subhra Bakshi, *NEET UG 2024 Score Distribution Analysis*, Zenodo, 2026.  
+DOI: https://doi.org/10.5281/zenodo.19972748
